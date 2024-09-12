@@ -1,0 +1,1109 @@
+<!doctype html><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" > <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en" >        <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="en" >               <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="Aujas Cybersecurity">
+    <meta name="description" content="threat management, incident response, and security incidents remediation assistance following NIST guidelines.">
+    <meta name="generator" content="HubSpot">
+    <title>Aujas Managed Detection &amp; Response</title>
+    <link rel="shortcut icon" href="https://www.aujas.com/hubfs/Aujas%202019/Home/favicon-16x16.png">
+    
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="/hs/hsstatic/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+    <meta property="og:description" content="threat management, incident response, and security incidents remediation assistance following NIST guidelines.">
+    <meta property="og:title" content="Aujas Managed Detection &amp; Response">
+    <meta name="twitter:description" content="threat management, incident response, and security incidents remediation assistance following NIST guidelines.">
+    <meta name="twitter:title" content="Aujas Managed Detection &amp; Response">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/1689076033637/module_124136095589_Event_-_Header_2.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/102440753027/1715254491196/module_102440753027_Event_-_Hero.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/114215001636/1691610228301/module_114215001636_Event_-_Text_Form.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/133212081002/1694523225306/module_133212081002_Event_-_Tiles_MDR.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/133213326467/1694523316921/module_133213326467_Event_-_Case_Study_MDR.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/70292368824/1649212052224/module_70292368824_Stats_Count.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/95345633681/1671773853096/module_95345633681_PALM_-_About.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/95578451372/1693991422898/module_95578451372_PALM_-_Features.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/137605045035/1696333408555/module_137605045035_Event_-_MDR_-_N_Case_Study.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/133212225664/1696330823717/module_133212225664_Events_-_MDR_Tabs_On_Demand.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/23264806184/1693221722311/module_23264806184_Case_Study_Block_2.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/122888916832/1694509021787/module_122888916832_Event_-_Logo_Slider.min.css">
+    
+
+    
+<!--  Added by GoogleAnalytics integration -->
+<script>
+var _hsp = window._hsp = window._hsp || [];
+_hsp.push(['addPrivacyConsentListener', function(consent) { if (consent.allowed || (consent.categories && consent.categories.analytics)) {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create','UA-4098822-1','auto');
+  ga('send','pageview');
+}}]);
+</script>
+
+<!-- /Added by GoogleAnalytics integration -->
+
+<!--  Added by GoogleAnalytics4 integration -->
+<script>
+var _hsp = window._hsp = window._hsp || [];
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+var useGoogleConsentModeV2 = true;
+var waitForUpdateMillis = 1000;
+
+
+if (!window._hsGoogleConsentRunOnce) {
+  window._hsGoogleConsentRunOnce = true;
+
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'wait_for_update': waitForUpdateMillis
+  });
+
+  if (useGoogleConsentModeV2) {
+    _hsp.push(['useGoogleConsentModeV2'])
+  } else {
+    _hsp.push(['addPrivacyConsentListener', function(consent){
+      var hasAnalyticsConsent = consent && (consent.allowed || (consent.categories && consent.categories.analytics));
+      var hasAdsConsent = consent && (consent.allowed || (consent.categories && consent.categories.advertisement));
+
+      gtag('consent', 'update', {
+        'ad_storage': hasAdsConsent ? 'granted' : 'denied',
+        'analytics_storage': hasAnalyticsConsent ? 'granted' : 'denied',
+        'ad_user_data': hasAdsConsent ? 'granted' : 'denied',
+        'ad_personalization': hasAdsConsent ? 'granted' : 'denied'
+      });
+    }]);
+  }
+}
+
+gtag('js', new Date());
+gtag('set', 'developer_id.dZTQ1Zm', true);
+gtag('config', 'G-376561863');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-376561863"></script>
+
+<!-- /Added by GoogleAnalytics4 integration -->
+
+    <link rel="canonical" href="https://www.aujas.com/aujas-managed-detection-response">
+
+<meta name="google-site-verification" content="VpQg0geXb47D3hp173Qs1QSpGe7gP0HvUTyARFKNWL4">
+<script type="text/javascript">
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', '3787f0f98ce0d50ed3d53acbc575b558e13fb8f3');
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-715711768"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-715711768');
+</script>
+
+<script type="text/javascript"> (function(c,l,a,r,i,t,y){ c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)}; t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i; y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y); })(window, document, "clarity", "script", "mro2791zof"); </script>
+
+
+
+<meta name="p:domain_verify" content="5f4df53e51b7cfff4dfed9fc126930a5">
+<style>
+  .header-menu ul li:nth-child(6).active a:after {
+    border: 0px;
+    height: 0px;
+  }
+  
+  .header-menu ul li:nth-child(6).active a {
+    background-color: #a42675 !important;
+    color: #ffffff !important;
+  }
+  
+  .header-menu ul li.hs-menu-depth-1:nth-child(6) a:hover {
+    background-color: #a42675 !important;
+    color: #ffffff !important;
+  }
+  
+  @media (max-width: 767px) {
+  .header-outer-wrap {
+    padding-bottom: 0px !important;
+    padding-top: 0px;
+  }
+    
+    .header-menu ul li.hs-menu-depth-1:nth-child(6) a{
+    font-weight: 400 !important;
+    -webkit-box-shadow: 0 0 0px #fff !important;
+    box-shadow: 0 0 0px #00000075 !important;
+    }
+    
+    .mobile-image img {
+    width: 23px !important;
+    height: 23px !important;
+}
+  }
+</style>
+
+
+<meta property="og:url" content="https://www.aujas.com/aujas-managed-detection-response">
+<meta name="twitter:card" content="summary">
+<link rel="stylesheet" href="//cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1725657431663/hubspot/hubspot_default/shared/responsive/layout.min.css">
+
+
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/template_assets/102426124640/1677762949278/Aujas_-_Events/Css/event.min.css">
+
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+    <script src="https://alexandrebuffet.fr/codepen/slider/slick-animation.min.js"></script>
+    <!-- Hotjar Tracking Code for my site -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3567107,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+
+</head>
+<body class="   hs-content-id-133210605125 hs-landing-page hs-page " style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_168907606400054" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="event-header">
+  <div class="page-center">
+    <div class="event-header_wrap df sb ac">
+      <div class="event-header_logo">
+        <a href="https://www.aujas.com/">
+          
+            
+            
+              
+            
+             
+            <img src="https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201.png?width=223&amp;height=63&amp;name=Aujas%20logo%20Updated%201.png" alt="Aujas logo Updated 1" loading="lazy" width="223" height="63" style="max-width: 100%; height: auto;" srcset="https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201.png?width=112&amp;height=32&amp;name=Aujas%20logo%20Updated%201.png 112w, https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201.png?width=223&amp;height=63&amp;name=Aujas%20logo%20Updated%201.png 223w, https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201.png?width=335&amp;height=95&amp;name=Aujas%20logo%20Updated%201.png 335w, https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201.png?width=446&amp;height=126&amp;name=Aujas%20logo%20Updated%201.png 446w, https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201.png?width=558&amp;height=158&amp;name=Aujas%20logo%20Updated%201.png 558w, https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201.png?width=669&amp;height=189&amp;name=Aujas%20logo%20Updated%201.png 669w" sizes="(max-width: 223px) 100vw, 223px">
+          
+        </a>
+      </div>
+      <div class="event-header_menu custom-menu-primary">
+        <span id="hs_cos_wrapper_module_168907606400054_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><ul></ul></span>
+      </div>
+      <div class="event-header_counter">
+        <div class="timer-counter">
+          <!-- <h1 id="headline">Countdown to my birthday:</h1> -->
+          <div class="event-countdown" id="countdown">
+            <ul>
+              <li>
+                <div class="count-var">
+                  <span id="days" class="time-text">00</span> <span class="colon">:</span>
+                </div>
+                <div class="count-txt">
+                  <span class="btm-text">Days</span>
+                </div>
+              </li>
+              
+              <li>
+                <div class="count-var">
+                  <span id="hours" class="time-text">00</span> <span class="colon">:</span>
+                </div>
+                <div class="count-txt">
+                  <span class="btm-text">
+                    <span class="desktop-time">Hours</span>
+                    <span class="mobile-time">Hrs</span>
+                  </span>
+                </div>
+              </li>
+              
+              <li>
+                <div class="count-var">
+                  <span id="minutes" class="time-text">00</span> <span class="colon">:</span>
+                </div>
+                <div class="count-txt">
+                  <span class="btm-text">
+                    <span class="desktop-time">Minutes</span>
+                    <span class="mobile-time">Min</span>
+                  </span>
+                </div>
+              </li>
+              
+              <li>
+                <div class="count-var">
+                  <span id="seconds" class="time-text">00</span>
+                </div>
+                <div class="count-txt">
+                  <span class="btm-text">
+                    <span class="desktop-time">Seconds</span>
+                    <span class="mobile-time">Sec</span>
+                  </span>
+                </div>
+              </li>
+
+            </ul>
+
+          </div>
+          <div id="content" class="emoji">
+            <span>Lorem ipsum dolor sit am</span>
+          </div>
+        </div>
+      </div>
+      <div class="event-header_nse">
+        <a href="">
+          
+            
+            
+              
+            
+             
+            <img src="https://www.aujas.com/hs-fs/hubfs/aujas_2023/home/NSE-logo.png?width=148&amp;height=66&amp;name=NSE-logo.png" alt="NSE-logo" loading="lazy" width="148" height="66" style="max-width: 100%; height: auto;" srcset="https://www.aujas.com/hs-fs/hubfs/aujas_2023/home/NSE-logo.png?width=74&amp;height=33&amp;name=NSE-logo.png 74w, https://www.aujas.com/hs-fs/hubfs/aujas_2023/home/NSE-logo.png?width=148&amp;height=66&amp;name=NSE-logo.png 148w, https://www.aujas.com/hs-fs/hubfs/aujas_2023/home/NSE-logo.png?width=222&amp;height=99&amp;name=NSE-logo.png 222w, https://www.aujas.com/hs-fs/hubfs/aujas_2023/home/NSE-logo.png?width=296&amp;height=132&amp;name=NSE-logo.png 296w, https://www.aujas.com/hs-fs/hubfs/aujas_2023/home/NSE-logo.png?width=370&amp;height=165&amp;name=NSE-logo.png 370w, https://www.aujas.com/hs-fs/hubfs/aujas_2023/home/NSE-logo.png?width=444&amp;height=198&amp;name=NSE-logo.png 444w" sizes="(max-width: 148px) 100vw, 148px">
+          
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="fixed-contact">
+ <a href="#form">Contact Us</a>
+</div>
+
+<script>
+// Set the date we're counting down to
+
+var selectedDate = "2023-02-17 00:00:00";
+  
+    var bYear = 0;
+    var bMonth = 0;
+    var bDate = 0;
+    var bHour = 0;
+    var bMinute = 0;
+    var bSecond = 0;
+    if (selectedDate) {
+        var datePart = selectedDate.split(" ")[0];
+        var hourPart = selectedDate.split(" ")[1];
+      
+        bYear = datePart.split("-")[0];
+        bMonth = datePart.split("-")[1];
+        bDate = datePart.split("-")[2];
+      
+        bHour = hourPart.split(":")[0];
+        bMinute = hourPart.split(":")[1];
+        bSecond = hourPart.split(":")[2];
+    }
+  
+  bMonth = Number(bMonth) - 1;
+  if (bMonth <= -1){
+      bMonth = 0
+  }
+  console.log("selectrd " + selectedDate);
+  console.log("bYear " + bYear);
+  console.log("bMonth " + bMonth);
+  console.log("bDate " + bDate);
+  console.log("bHour " + bHour);
+  console.log("bMinute " + bMinute);
+  console.log("bSecond " + bSecond);
+  
+  
+ var tempcountDownDate = new Date(Number(bYear), Number(bMonth) , Number(bDate), Number(bHour), Number(bMinute), Number(bSecond));
+//   var countDownDate = tempcountDownDate;
+ var countDownDate = (tempcountDownDate).getTime();
+
+//2022-03-16 08:00:00  
+
+// Update the count down every 1 second
+ x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="demo"
+//   document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+//   + minutes + "m " + seconds + "s ";
+   
+            document.getElementById("days").innerText = days;
+            document.getElementById("hours").innerText = hours;
+            document.getElementById("minutes").innerText = minutes;
+            document.getElementById("seconds").innerText = seconds;
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+//     document.getElementById("demo").innerHTML = "EXPIRED";
+    countdown.style.display = "none";
+    content.style.display = "block";
+  }
+}, 1000);
+</script></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container " style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_16763749875797" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_1688547549812" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="event-hero_slider">
+
+<div class="event-hero " style="background-image: url(https://www.aujas.com/hubfs/MDR%20Banner%202.webp);">
+   
+  <div class="event-hero_slide-card">
+  <div class="page-center">
+    <div class="event-hero_wrap">
+      <div class="event-hero_outter">
+        
+        
+       <!-- animtion removed  
+        <div class="event-hero_content animated" data-animation-in="fadeInUp" data-delay-in="0.3">
+          ---->
+        
+        
+      <div class="event-hero_content">
+        <h2 style="line-height: 40px; font-size: 35px;"><span style="color: #ffffff;">Aujas Managed Detection &amp; Response</span></h2>
+<h5><span style="color: #ffffff; font-size: 20px;"><span>24x7 enterprise threat monitoring, incident response, and security incidents remediation assistance </span></span></h5>
+      </div>
+      <div class="event-hero_cta df">
+        
+          <div class="event-hero_cta-item ms-cta smooth-link">
+            
+            
+            <a href="#overview">
+              Read More
+            </a>
+            </div>
+          
+        
+      </div>
+
+      </div>
+    </div>
+  </div>
+  </div>  
+  
+  
+     
+  
+  
+</div>
+
+</div>
+
+<div class="event-hero_bottom">
+  <div class="page-center">
+    <div class="event-hero_bottom_wrap tc">
+      <div class="event-hero_bottom_content">
+        
+      </div>
+      
+      <div class="event-hero_cta df ">
+       
+      </div>
+    </div>
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1683195626119" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="evebt-tf " id="overview" style="background-image: url();">
+  <div class="page-center">
+    <div class="evebt-tf_wrap df sb ac">
+     
+      <div class="evebt-tf_txt evebt-tf_col"><p style="font-size: 18px;">In the ever-evolving digital landscape, adopting a traditional approach to IT security is simply not adequate. It cannot safeguard your organizational assets and data fully. Furthermore, with remote workforces, protecting sensitive business information across a distributed geography has become the need of the hour. While many enterprises recognize these shifts, they often lack the expertise, experience, and resources to effectively address these modern security challenges. This prompts an important question: How do you manage the growing threats targeting your IT ecosystem daily?</p>
+<p style="font-size: 18px;">This is where Aujas Cybersecurity’s managed detection and response (MDR) services step in. Our team of experts is tightly integrated with our threat hunters, which allows us to quickly identify and respond to threats. We use this knowledge to constantly evolve the security use cases for anomaly detection and to utilize the NIST framework for incident response and recovery.</p>
+      
+      
+         
+      
+      </div>
+      <div class="evebt-tf_col evebt-tf_form" id="form">
+        
+        
+          <span id="hs_cos_wrapper_widget_1683195626119_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_form" style="" data-hs-cos-general-type="widget" data-hs-cos-type="form"><h3 id="hs_cos_wrapper_form_964285810_title" class="hs_cos_wrapper form-title" data-hs-cos-general-type="widget_field" data-hs-cos-type="text"></h3>
+
+<div id="hs_form_target_form_964285810"></div>
+
+
+
+
+
+
+
+
+
+</span>
+        
+        
+        
+        
+        
+
+        
+        
+      </div>
+    </div>
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1693819673445" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="cv-main-section section-2">
+  <div class="container ">
+            <div class="row">
+                <div class="cv-col-md-4 cv-col-xs-12 cv-col-sm-12">
+                    <div class="fullwrap">
+                    <img src="https://www.aujas.com/hubfs/A.png" class="img-thumbnail">
+                          <div class="beforeCardText">
+                            <h1 class="textWhite">Problem we solve</h1>
+                        </div>
+                    <div class="fullcap">        
+                       <h3 class="section-titles-cv">Problem we solve</h3>
+                            <ul class="section2-ul">
+                                <li class="cv-mt-1 ">Detecting, containing, and recovering cyber incidents </li>
+                                <li class="cv-mt-1">Complying with NIST Framework for incident handling </li>
+                              <li class="cv-mt-1 ">Building defences and preparing for the evolving threat landscape</li>                       
+                            </ul>
+                     
+                        
+                    </div>
+                </div>
+              
+            </div>
+            <div class="cv-col-md-4 cv-col-xs-12 cv-col-sm-12">
+               
+                <div class="fullwrap">
+                    <img src="https://www.aujas.com/hubfs/B.png" class="img-thumbnail">
+                      <div class="beforeCardText">
+                            <h1 class="textWhite">Solution</h1>
+                        </div>
+                    <div class="fullcap">
+                         <h3 class="section-titles-cv">Solution</h3>
+                            <ul class="section2-ul">
+                                <li class="cv-mt-1 ">24x7 attack detection</li>
+                            
+                                <li class="cv-mt-1 ">Reducing dwell time and response time</li>
+                               <li class="cv-mt-1 ">Monitoring business supporting systems such as server logs, AD, VPN, and antivirus servers</li>
+                            <li class="cv-mt-1 ">Threat intelligence security monitoring for compliance and audits</li>
+                       <li class="cv-mt-1 ">Multiple tools and technologies for monitoring</li>
+                      </ul>
+                        
+                    </div>
+                </div>
+            </div>
+             <div class="cv-col-md-4 cv-col-xs-12 cv-col-sm-12">
+                <div class="fullwrap">
+                    <img src="https://www.aujas.com/hubfs/C.png" class="img-thumbnail">
+                       <div class="beforeCardText">
+                            <h1 class="textWhite">Benefits</h1>
+                        </div>
+                    <div class="fullcap">   
+                      <h3 class="section-titles-cv">Benefits</h3>
+                            <ul class="section2-ul">
+                                <li class="cv-mt-1 ">Anticipating breaches in digital systems and fortifying weak points</li>
+                                <li class="cv-mt-1">Correlating cyber events across digital, cloud and industrial systems to identify malicious usage patterns</li>
+                                <li class="cv-mt-1 ">Coordinating response to contain and repel cyber incidents</li>
+                               <li class="cv-mt-1 ">Enhancing risk posture across systems</li>
+                              <li class="cv-mt-1 ">Establishing final defense against breaches and attacks</li>
+                        
+                     
+                            </ul>
+                      
+                        
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1693992559544" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="cv-main-section section-4">
+        <div class="height-490 sm-height-890 bg-black">
+            <div class="row" style="margin: 0;">
+                 <div class="cv-col-md-6 cv-col-xs-12 cv-col-sm-12 no-padding-left">
+                   <a href="#form"><img src="https://www.aujas.com/hubfs/Table-1.png" class="img-thumbnail"></a>
+             </div>
+            <div class="cv-col-md-6 cv-col-xs-12 cv-col-sm-12">
+                <div class="case-study cs-mob-view">
+                    <h1>Flexible engagement models</h1>
+                    <p></p><p>Security Operation Center (SOC) services to meet the needs of businesses of all sizes:</p>
+<p><strong>Co-managed SOC:</strong>&nbsp;We can help you transition your existing SOC to ours, optimize its operations, and keep it running smoothly. We also offer services to build and operate a new SOC from the ground up.</p>
+<p><strong>Aujas MDR:</strong><span>&nbsp;</span>Fully owned and operated by us.</p>
+<p>We offer three&nbsp;<span>MDR service packs</span> to meet the unique needs of businesses — <strong>Armor 1</strong><span> </span>for basic,<span>&nbsp;</span><strong>Armor 2</strong><span> </span>for moderate, and<span>&nbsp;</span><strong>Armor 3</strong><span> </span>for advanced cybersecurity requirements.</p>
+<p>&nbsp;</p><p></p>
+                   <!-- <a href="#form" class="btn btn-pad cv-btn-primary">Download Datasheet</a> -->
+                </div>
+             </div>
+        </div>
+    </div>
+</div>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+  <span class="close">×</span>
+  <a href="#form"> <img class="modal-content" src="https://www.aujas.com/hubfs/MDR%20Models-Pop-up.webp"></a>
+  <div id="caption"></div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1687859271496" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="aujas-stats-count" id="counter-container">
+  
+  
+  <div class="aujas-stats-count__card">
+    <div class="aujas-stats-count__card-inner">
+    <div class="aujas-stats-count__icon">
+        
+    </div>
+    <div class="aujas-stats-count__text">
+      
+       
+        <h3><span class="count">250</span>+</h3>
+        MDR team
+    </div>
+    </div>  
+  </div>
+  
+  <div class="aujas-stats-count__card">
+    <div class="aujas-stats-count__card-inner">
+    <div class="aujas-stats-count__icon">
+        
+    </div>
+    <div class="aujas-stats-count__text">
+      
+       
+        <h3><span class="count">20</span>+</h3>
+        MDR SIEM technologies and<br>tech versatile profile
+    </div>
+    </div>  
+  </div>
+  
+  <div class="aujas-stats-count__card">
+    <div class="aujas-stats-count__card-inner">
+    <div class="aujas-stats-count__icon">
+        
+    </div>
+    <div class="aujas-stats-count__text">
+      
+       
+        <h3><span class="count">100</span>+</h3>
+        MDR clients
+    </div>
+    </div>  
+  </div>
+  
+  <div class="aujas-stats-count__card">
+    <div class="aujas-stats-count__card-inner">
+    <div class="aujas-stats-count__icon">
+        
+    </div>
+    <div class="aujas-stats-count__text">
+      
+       
+        <h3><span class="count">15</span>+</h3>
+        Years of cybersecurity expertise
+    </div>
+    </div>  
+  </div>
+  
+</div></div>
+<div id="hs_cos_wrapper_widget_1693820487361" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="palm-text-card" id="about" style=" background-color:#eff0f2; ">
+  <div class="page-center">
+    <div class="palm-text-card__top top-sec tc">
+      <h2 style="text-align: center;">Our services</h2>
+    </div>
+    <div class="mas-text-card__wrap">
+      
+    </div>
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1693820555791" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="features-outer" id="core-features" style="padding-top:px;
+                                padding-bottom:50px;">
+  <div class="page-center-features">
+  
+        
+        
+        <div class="palm-features-card">
+          <div class="features-block3">
+        <div class="inner-block">
+        <img class="img-size-mdr" src="https://www.aujas.com/hubfs/01%20SOC%20Design%20%26%20Engineering.svg" alt="01 Offensive Security and Engineering"><br><br>
+        <h3>SOC Design and Engineering</h3>
+        <p>
+          </p><ul>
+<li>SIEM design and deployment&nbsp;</li>
+<li>SOAR orchestration&nbsp;</li>
+<li>EDR and XDR deployment&nbsp;</li>
+<li>System integration and parser development&nbsp;</li>
+<li>Log source and event flow tuning</li>
+</ul><p></p>
+        </div>
+      
+      </div>
+    </div>
+  
+        
+        
+        <div class="palm-features-card">
+          <div class="features-block3">
+        <div class="inner-block">
+        <img class="img-size-mdr" src="https://www.aujas.com/hubfs/02%20Managed%20Security%20Operations%20Services.svg" alt="02 Managed Security Operations Services"><br><br>
+        <h3>Managed Security Operations Services</h3>
+        <p>
+          </p><ul>
+<li>Cybersecurity toolset management&nbsp;</li>
+<li>Incident detection and response&nbsp;</li>
+<li>Triage, containment, and recovery&nbsp;</li>
+<li>Incident retainer service</li>
+<li>Continuous risk posture improvement</li>
+</ul><p></p>
+        </div>
+      
+      </div>
+    </div>
+  
+        
+        
+        <div class="palm-features-card">
+          <div class="features-block3">
+        <div class="inner-block">
+        <img class="img-size-mdr" src="https://www.aujas.com/hubfs/03%20Threat%20Hunting%20%26%20Offensive%20Security.svg" alt="03 Threat Hunting and Offensive Security"><br><br>
+        <h3>Threat Hunting and Offensive Security</h3>
+        <p>
+          </p><ul>
+<li>Threat anticipation&nbsp;</li>
+<li>Hypothesis development&nbsp;</li>
+<li>Recon, scanning, and enumeration&nbsp;</li>
+<li>Analysis and confirmation&nbsp;</li>
+<li>Response coordination</li>
+</ul><p></p>
+        </div>
+      
+      </div>
+    </div>
+  
+</div>
+  </div>
+  </div>
+</span></div></div>
+<div id="hs_cos_wrapper_widget_1696331253775" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="section-4">
+        <div class=" bg-black">
+            <div class="row" style="margin: 0;">
+                 <div class="cv-col-md-6 cv-col-xs-12 cv-col-sm-12 no-padding-left">
+                   <a href="#form"><img src="https://www.aujas.com/hubfs/CUST.png" class="img-thumbnail"></a>
+             </div>
+            <div class="cv-col-md-6 cv-col-xs-12 cv-col-sm-12">
+                <div class="case-study cs-mob-view">
+                    <h1 class="font-30">Case Studies eBook</h1>
+                    <p></p><p><span>Aujas MDR services safeguard global businesses, shielding their digital&nbsp;ecosystem and assets from evolving threats. This coffee-table e-book highlights our success stories spanning diverse industries.&nbsp;</span></p><p></p>
+                   
+                </div>
+             </div>
+        </div>
+    </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1693819754592" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="cv-main-section section-5">
+        <div class="container">
+            <div class="tab-heading cv-tabs-heading-center">
+                <h2>Why Aujas MDR?</h2>
+            </div>
+            <div class="cv-tab">
+                
+                <input type="radio" name="nav" id="one" checked class="cv-input">
+                <label for="one" class="cv-label">Expertise</label>
+                
+                <input type="radio" name="nav" id="two" class="cv-input">
+                <label for="two" class="cv-label">Next Gen SOC</label>
+                
+                <input type="radio" name="nav" id="three" class="cv-input">
+                <label for="three" class="cv-label">Reliability</label>
+    
+                <input type="radio" name="nav" id="four" class="cv-input">
+                <label for="four" class="cv-label">Compliance</label>
+    
+   
+            
+             <article class="content one cv-mt-2">
+                <div class="row">
+                    <div class="cv-col-6 cv-col-sm-12 cv-col-md-6">
+                       <iframe width="500" height="300" src="https://www.youtube.com/embed/UikiWyvXg8g?si=lmoONDv-3-6XV8TF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+                     <div class="cv-col-6 cv-col-sm-12 cv-col-md-6">
+                        <h3 class="sm-padding-top-32">Expertise</h3>
+                         <p class="margin-bottom-cv">As a pure-play security company, we have been focusing on multiple facets of managed cybersecurity and risk management engagements. We have been managing mission-critical cybersecurity programs and SOCs for over 15 years in the manufacturing, telecom, government, banking, finance and insurance, and retail stock exchange sectors. Refer to our tailored and customizable Armor packages for comprehensive cybersecurity programs that fit your organizational needs.</p>
+                        
+                    </div>
+                </div>     
+            </article>
+            
+             <article class="content two cv-mt-2">
+                <div class="row">
+                    <div class="cv-col-6 cv-col-sm-12 cv-col-md-6">
+                       <iframe width="500" height="300" src="https://www.youtube.com/embed/UikiWyvXg8g?si=lmoONDv-3-6XV8TF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+                    <div class="cv-col-6 cv-col-sm-12 cv-col-md-6">
+                        <h3 class="sm-padding-top-32">Next Gen SOC Service</h3>
+                         <p class="margin-bottom-cv">We provide comprehensive next-gen SOC services, including managed SIEM, EDR, analytics, threat hunting, SecOps, and SOAR. We provide 24x7 security coverage and geo-redundancy with SOCs in the USA, India, and MEA.</p>
+                        
+                    </div>
+                </div> 
+            </article>
+            
+            <article class="content three cv-mt-2">
+                <div class="row">
+                    <div class="cv-col-6 cv-col-sm-12 cv-col-md-6">
+                       <iframe width="500" height="300" src="https://www.youtube.com/embed/UikiWyvXg8g?si=lmoONDv-3-6XV8TF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+                    <div class="cv-col-6 cv-col-sm-12 cv-col-md-6">
+                        <h3 class="sm-padding-top-32">Reliability </h3>
+                         <p class="margin-bottom-cv">Aujas Cybersecurity's approach to information security is not just tool dependent. We believe that the most effective approach to securing an organization is to blend human expertise with well-established and standardized processes. Our core team has multidisciplinary expertise, including security operations (SecOps), security controls experience, security engineering, and risk management.</p>
+                        
+                    </div>
+                </div> 
+            </article>
+            <article class="content four cv-mt-2">
+                <div class="row">
+                   <div class="cv-col-6 cv-col-sm-12 cv-col-md-6">
+                       <iframe width="500" height="300" src="https://www.youtube.com/embed/UikiWyvXg8g?si=lmoONDv-3-6XV8TF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+                   <div class="cv-col-6 cv-col-sm-12 cv-col-md-6">
+                        <h3 class="sm-padding-top-32">Compliance</h3>
+                         <p class="margin-bottom-cv">Aujas Cybersecurity’s ISO 27001-certified global delivery centers guarantee alignment of our processes, personnel, and technology with international information security standards, including ITIL Service Management and NIST Cybersecurity.</p>
+                        
+                    </div>
+                </div> 
+            </article>
+           
+        </div>
+    </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1693821253902" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="ses-offering-wrapper" style="background-color:#f6f6f6;
+                                         padding-bottom:50px;;
+                                         padding-top:20px;">
+  <div class="page-center">
+    <div class="ses-offering-header">
+      <p></p>
+      <h3>
+        Related Information
+      </h3>
+    </div>
+    <div class="ses-offering-outer ses-offering-outer-new ">
+      
+      <div class="ses-offering-content-outer ses-offering-content-outer-new1">
+        <div class="ses-offering-content-inner1">
+          
+        <div class="ses-offering-block-heading1">
+          <h4 class="ses-title-style">
+            Point of View Paper
+          </h4>
+          
+          <h4 class="ses-body-style">
+            Managed XDR (Extended Detection &amp; Response)
+          </h4>
+        </div>
+<!--         <div class="ses-offering-block-content">
+          <p>Overcome security obstacles.<br>Outmaneuver threats at scale.</p>
+        </div> -->
+        <div class="ses-offering-block-content-link">
+          <a href="https://www.aujas.com/managed-xdr-service">Learn More</a>
+        </div>
+          <div class="ses-lable-style">
+          <div>
+            
+            </div>
+        </div>
+      </div>
+        </div>
+      
+      <div class="ses-offering-content-outer ses-offering-content-outer-new1">
+        <div class="ses-offering-content-inner1">
+          
+        <div class="ses-offering-block-heading1">
+          <h4 class="ses-title-style">
+            A Frost &amp; Sullivan Whitepaper
+          </h4>
+          
+          <h4 class="ses-body-style">
+            Transforming Cyber Defense with 360 Degree MDR services
+          </h4>
+        </div>
+<!--         <div class="ses-offering-block-content">
+          <p><span>Know how MDR services can help you accelerate threat detection and response time.</span></p>
+        </div> -->
+        <div class="ses-offering-block-content-link">
+          <a href="https://www.aujas.com/transforming-cyber-defense-with-360-degree-mdr-services">Learn More</a>
+        </div>
+          <div class="ses-lable-style">
+          <div>
+            
+            </div>
+        </div>
+      </div>
+        </div>
+      
+      <div class="ses-offering-content-outer ses-offering-content-outer-new1">
+        <div class="ses-offering-content-inner1">
+          
+        <div class="ses-offering-block-heading1">
+          <h4 class="ses-title-style">
+            Blog
+          </h4>
+          
+          <h4 class="ses-body-style">
+            How Aujas Cyber Defense Center powers IBM QRadar to enable 24x7 threat protection
+          </h4>
+        </div>
+<!--         <div class="ses-offering-block-content">
+          <p><span>By adopting the combined strength of Aujas CDC and IBM QRadar, you can future-proof your infrastructure by injecting resilience into your digital ecosystem so that it remains efficient, productive, and compliant.</span></p>
+        </div> -->
+        <div class="ses-offering-block-content-link">
+          <a href="https://blog.aujas.com/aujas-cdc-ibm-qradar">Learn More</a>
+        </div>
+          <div class="ses-lable-style">
+          <div>
+            
+            </div>
+        </div>
+      </div>
+        </div>
+      
+    </div>
+  </div>
+</div></div>
+<div id="hs_cos_wrapper_widget_1688096141677" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="cv-main-section section-4 logo-back-color">
+    <div class="container">
+        <div class="logo-heading cv-tabs-heading-center">
+            <h2>Our Alliances</h2>
+        </div>
+        <section class="logos-slider slider p-tb-2 sm-logo-slider">
+            <div class="slide-1"><img src="/hubfs/Logo%201.webp"></div>
+            <div class="slide-1"><img src="/hubfs/Logo%202.webp"></div>
+            <div class="slide-1"><img src="/hubfs/Logo%203.webp"></div>
+            <div class="slide-1"><img src="/hubfs/Logo%204.webp"></div>
+            <div class="slide-1"><img src="/hubfs/Logo%205.webp"></div>
+            <div class="slide-1"><img src="/hubfs/Logo%206.webp"></div>
+            <div class="slide-1"><img src="/hubfs/Logo%207.webp"></div>
+            <div class="slide-1"><img src="/hubfs/Logo%208.webp"></div>
+          <div class="slide-1"><img src="/hubfs/Logo%209.webp"></div>
+          <div class="slide-1"><img src="/hubfs/logo-ms.webp"></div>
+         </section>
+    </div>
+</div>
+
+<script>
+    //logo slider
+
+
+}]
+});
+</script></div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container " style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_168785547490111" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    <!--end body -->
+<!--end body wrapper -->
+
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
+
+    
+<!-- HubSpot performance collection script -->
+<script defer src="https://static.hsappstatic.net/content-cwv-embed/static-1.971/embed.js"></script>
+<script src="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/template_assets/102441768581/1676376271453/Aujas_-_Events/Script/slick.min.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script src="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/124136095589/1689076033545/module_124136095589_Event_-_Header_2.min.js"></script>
+<script src="/hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.17/bundles/project.js"></script>
+<script src="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/102440753027/1715254490530/module_102440753027_Event_-_Hero.min.js"></script>
+
+    <!--[if lte IE 8]>
+    <script charset="utf-8" src="https://js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+
+<script data-hs-allowed="true" src="/_hcms/forms/v2.js"></script>
+
+    <script data-hs-allowed="true">
+        var options = {
+            portalId: '2139287',
+            formId: '76259a5c-1234-4319-8b51-90f7e9d4a97d',
+            formInstanceId: '620',
+            
+            pageId: '133210605125',
+            
+            region: 'na1',
+            
+            
+            
+            
+            pageName: "Aujas Managed Detection & Response",
+            
+            
+            redirectUrl: "https:\/\/www.aujas.com\/mdr-thank-you",
+            
+            
+            
+            
+            
+            css: '',
+            target: '#hs_form_target_form_964285810',
+            
+            
+            
+            
+            
+            contentType: "landing-page",
+            
+            
+            
+            formsBaseUrl: '/_hcms/forms/',
+            
+            
+            
+            formData: {
+                cssClass: 'hs-form stacked hs-custom-form'
+            }
+        };
+
+        options.getExtraMetaDataBeforeSubmit = function() {
+            var metadata = {};
+            
+
+            if (hbspt.targetedContentMetadata) {
+                var count = hbspt.targetedContentMetadata.length;
+                var targetedContentData = [];
+                for (var i = 0; i < count; i++) {
+                    var tc = hbspt.targetedContentMetadata[i];
+                     if ( tc.length !== 3) {
+                        continue;
+                     }
+                     targetedContentData.push({
+                        definitionId: tc[0],
+                        criterionId: tc[1],
+                        smartTypeId: tc[2]
+                     });
+                }
+                metadata["targetedContentMetadata"] = JSON.stringify(targetedContentData);
+            }
+
+            return metadata;
+        };
+
+        hbspt.forms.create(options);
+    </script>
+
+<script src="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/133213326467/1694523316186/module_133213326467_Event_-_Case_Study_MDR.min.js"></script>
+<script src="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/70292368824/1649212052101/module_70292368824_Stats_Count.min.js"></script>
+<script src="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/module_assets/122888916832/1694509021169/module_122888916832_Event_-_Logo_Slider.min.js"></script>
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "landing-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.aujas.com\/aujas-managed-detection-response"]);
+_hsq.push(["setPageId", "133210605125"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 133210605125,
+    "legacyPageId": "133210605125",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 133210605125,
+    "languageCode": null,
+    
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/2139287.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "03917055-d010-4b7b-8912-e863477c8b17",
+    ticks: 1725906549392,
+    page_id: 133210605125,
+    
+    content_group_id: 0,
+    portal_id: 2139287,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "landing-page",
+    scp_content_type: "",
+    analytics_page_id: "133210605125",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.354/js/index.js"></script>
+
+<meta name="p:domain_verify" content="5f4df53e51b7cfff4dfed9fc126930a5">
+<script type="text/javascript">
+_linkedin_partner_id = "656027";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=656027&amp;fmt=gif">
+</noscript>
+
+<noscript>
+<img src="https://ws.zoominfo.com/pixel/62839c658f43f50012ae3b9a" width="1" height="1" style="display: none;" alt="websights">
+</noscript>
+
+
+    
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+
+</body></html>
