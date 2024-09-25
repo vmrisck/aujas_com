@@ -1,0 +1,1484 @@
+<!doctype html><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" > <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en" >        <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="en" >               <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="Aujas Cybersecurity">
+    <meta name="description" content="Aujas does not want to receive confidential or proprietary information from you through our Site.">
+    <meta name="generator" content="HubSpot">
+    <title>Terms of Service | Aujas Cybersecurity</title>
+    <link rel="shortcut icon" href="https://www.aujas.com/hubfs/Aujas%202019/Home/favicon-16x16.png">
+    
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="/hs/hsstatic/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+    <meta property="og:description" content="Aujas does not want to receive confidential or proprietary information from you through our Site.">
+    <meta property="og:title" content="Terms of Service | Aujas Cybersecurity">
+    <meta name="twitter:description" content="Aujas does not want to receive confidential or proprietary information from you through our Site.">
+    <meta name="twitter:title" content="Terms of Service | Aujas Cybersecurity">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+    
+
+    
+<!--  Added by GoogleAnalytics integration -->
+<script>
+var _hsp = window._hsp = window._hsp || [];
+_hsp.push(['addPrivacyConsentListener', function(consent) { if (consent.allowed || (consent.categories && consent.categories.analytics)) {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create','UA-4098822-1','auto');
+  ga('send','pageview');
+}}]);
+</script>
+
+<!-- /Added by GoogleAnalytics integration -->
+
+<!--  Added by GoogleAnalytics4 integration -->
+<script>
+var _hsp = window._hsp = window._hsp || [];
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+var useGoogleConsentModeV2 = true;
+var waitForUpdateMillis = 1000;
+
+
+if (!window._hsGoogleConsentRunOnce) {
+  window._hsGoogleConsentRunOnce = true;
+
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'wait_for_update': waitForUpdateMillis
+  });
+
+  if (useGoogleConsentModeV2) {
+    _hsp.push(['useGoogleConsentModeV2'])
+  } else {
+    _hsp.push(['addPrivacyConsentListener', function(consent){
+      var hasAnalyticsConsent = consent && (consent.allowed || (consent.categories && consent.categories.analytics));
+      var hasAdsConsent = consent && (consent.allowed || (consent.categories && consent.categories.advertisement));
+
+      gtag('consent', 'update', {
+        'ad_storage': hasAdsConsent ? 'granted' : 'denied',
+        'analytics_storage': hasAnalyticsConsent ? 'granted' : 'denied',
+        'ad_user_data': hasAdsConsent ? 'granted' : 'denied',
+        'ad_personalization': hasAdsConsent ? 'granted' : 'denied'
+      });
+    }]);
+  }
+}
+
+gtag('js', new Date());
+gtag('set', 'developer_id.dZTQ1Zm', true);
+gtag('config', 'G-376561863');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-376561863"></script>
+
+<!-- /Added by GoogleAnalytics4 integration -->
+
+    <link rel="canonical" href="https://www.aujas.com/terms-of-service">
+
+<meta name="google-site-verification" content="VpQg0geXb47D3hp173Qs1QSpGe7gP0HvUTyARFKNWL4">
+<script type="text/javascript">
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', '3787f0f98ce0d50ed3d53acbc575b558e13fb8f3');
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-715711768"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-715711768');
+</script>
+
+<script type="text/javascript"> (function(c,l,a,r,i,t,y){ c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)}; t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i; y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y); })(window, document, "clarity", "script", "mro2791zof"); </script>
+
+
+
+<meta name="p:domain_verify" content="5f4df53e51b7cfff4dfed9fc126930a5">
+<style>
+  .header-menu ul li:nth-child(6).active a:after {
+    border: 0px;
+    height: 0px;
+  }
+  
+  .header-menu ul li:nth-child(6).active a {
+    background-color: #a42675 !important;
+    color: #ffffff !important;
+  }
+  
+  .header-menu ul li.hs-menu-depth-1:nth-child(6) a:hover {
+    background-color: #a42675 !important;
+    color: #ffffff !important;
+  }
+  
+  @media (max-width: 767px) {
+  .header-outer-wrap {
+    padding-bottom: 0px !important;
+    padding-top: 0px;
+  }
+    
+    .header-menu ul li.hs-menu-depth-1:nth-child(6) a{
+    font-weight: 400 !important;
+    -webkit-box-shadow: 0 0 0px #fff !important;
+    box-shadow: 0 0 0px #00000075 !important;
+    }
+    
+    .mobile-image img {
+    width: 23px !important;
+    height: 23px !important;
+}
+  }
+</style>
+
+
+<meta property="og:url" content="https://www.aujas.com/terms-of-service">
+<meta name="twitter:card" content="summary">
+<link rel="stylesheet" href="//cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1727067933223/hubspot/hubspot_default/shared/responsive/layout.min.css">
+
+
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/template_assets/6997182427/1702623050187/Aujas_2019/Code_file/Aujas-2019.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/template_assets/6992681829/1672828589963/Aujas_2019/Code_file/Aujas-Stylesheet-2019.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/template_assets/9814981161/1610022079665/Aujas_2019/Code_file/Aujas-stylesheet-2.min.css">
+<link rel="stylesheet" href="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/template_assets/25219524487/1722487813538/Aujas_2019/Code_file/Common-stylesheet.min.css">
+
+
+    <link rel="stylesheet" href="https://3780149.fs1.hubspotusercontent-na1.net/hubfs/3780149/NavyOak%202018/Home/files/font-awesome.min.css">
+<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    
+
+</head>
+<body class="   hs-content-id-11468090089 hs-site-page page " style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<div class="" data-global-widget-path="generated_global_groups/6997058042.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell header-outer-wrap" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span3 widget-span widget-type-cell header-logo-outer" style="" data-widget-type="cell" data-x="0" data-w="3">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget header-logo" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563458433869106" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_module_1563458433869106_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="https://www.aujas.com/" target="_parent" id="hs-link-module_1563458433869106_" style="border-width:0px;border:0px;"><img src="https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201-1.png?width=223&amp;name=Aujas%20logo%20Updated%201-1.png" class="hs-image-widget " style="width:223px;border-width:0px;border:0px;" width="223" alt="Aujas logo Updated 1-1" title="Aujas logo Updated 1-1" srcset="https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201-1.png?width=112&amp;name=Aujas%20logo%20Updated%201-1.png 112w, https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201-1.png?width=223&amp;name=Aujas%20logo%20Updated%201-1.png 223w, https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201-1.png?width=335&amp;name=Aujas%20logo%20Updated%201-1.png 335w, https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201-1.png?width=446&amp;name=Aujas%20logo%20Updated%201-1.png 446w, https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201-1.png?width=558&amp;name=Aujas%20logo%20Updated%201-1.png 558w, https://www.aujas.com/hs-fs/hubfs/Aujas%20logo%20Updated%201-1.png?width=669&amp;name=Aujas%20logo%20Updated%201-1.png 669w" sizes="(max-width: 223px) 100vw, 223px"></a></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span9 widget-span widget-type-cell header-right-section-outer" style="" data-widget-type="cell" data-x="3" data-w="9">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell desktop-menu-outer" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-3 ">
+<div class="row-fluid ">
+<div class="span10 widget-span widget-type-custom_widget header-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="10">
+<div id="hs_cos_wrapper_module_154702719221359" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_154702719221359_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_154702719221359_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="6997181156" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Services</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/robotics-iam-identity-access-management-services" role="menuitem">Identity and Access Management</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/iam-identity-governance-fast-track" role="menuitem">Identity Governance Fast Track</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/privileged-identity-management" role="menuitem">Privileged Identity Management Fast Track</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/cloud-sso" role="menuitem">Cloud Single Sign-on Fast Track</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/robotics-iam-services" role="menuitem">Robotics Driven IAM</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/risk-aware-iam" role="menuitem">Risk Aware IAM</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/consumer-identity-and-access-management" role="menuitem">Consumer IAM</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/risk-advisory-services" role="menuitem">Cybersecurity Risk Advisory</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/cyber-risk-management-services" role="menuitem">Cyber Risk Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/cybersecurity-compliance-services" role="menuitem">Integrated Compliance Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/grc-technology-automation-services" role="menuitem">GRC Technology Automation</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/third-party-risk-management" role="menuitem">Third Party Risk Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/data-privacy-data-protection-services" role="menuitem">Privacy and Data Protection</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/security-verification-services" role="menuitem">Security Verification</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/on-demand-security-testing-and-services" role="menuitem">On-Demand Security Assessment</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/automated-continuous-attack-simulation" role="menuitem">Threat Simulation</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/open-source-compliance-security-services" role="menuitem">Open Source and IP Compliance</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/internet-of-things-security-assessment" role="menuitem">IoT Security Assessment</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/red-teaming-services" role="menuitem">Red Teaming</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/ddos-attack-simulation-services" role="menuitem">DDoS Simulation</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/devsecops" role="menuitem">DevSecOps</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/security-engineering-services" role="menuitem">Security Engineering</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/secure-software-development" role="menuitem">Secure Software Development</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/ecosystem-engineering" role="menuitem">Ecosystem Engineering</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/custom-security-solution-development" role="menuitem">Custom Security Development</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/registered-device-management-platform" role="menuitem">Registered Device Management Platform</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/managed-detection-and-response-services" role="menuitem">Managed Detection and Response</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/offensive-security-services" role="menuitem">Offensive Security Services</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/ot-security-services" role="menuitem">OT Security Services</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/sentinel" role="menuitem">Microsoft Sentinel</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/threat-management-service" role="menuitem">Threat Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/siem-security-monitoring" role="menuitem">SIEM &amp; Security Monitoring</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/automated-continuous-attack-simulation" role="menuitem">Automated &amp; Continous Attack Simulation</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/security-orchestration-automation-and-response" role="menuitem">SecOps Orchestration</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/cloud-computing-security-services" role="menuitem">Cloud Security</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/aws-cloud-security-services" role="menuitem">AWS Cloud Security Services</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/cloud-security-foundation" role="menuitem">Cloud Security Foundation</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/cloud-risk-management" role="menuitem">Cloud Risk Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/cloud-security-engineering" role="menuitem">Cloud Security Engineering</a></li>
+     </ul></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Products</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/platform-for-access-lifecycle-management" role="menuitem">PALM</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://saksham.aujas.com" role="menuitem">Saksham</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://codesign.aujas.com" role="menuitem">CodeSign</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/registered-device-management-platform" role="menuitem">Aadhaar Registered Device Manager</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Company</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/about-us" role="menuitem">About us</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/investor-relations" role="menuitem">Investor Relations</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/team" role="menuitem">Team</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/partnership" role="menuitem">Partnership</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/contact-us" role="menuitem">Contact us</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/cybersecurity-careers" role="menuitem">Careers</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Resources </a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://blog.aujas.com" role="menuitem">Blog</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/collaterals" role="menuitem">Collaterals</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/case-study" role="menuitem">Case Studies</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/contact-us" role="menuitem">Contact Sales</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:;" role="menuitem"><img src="https://www.aujas.com/hubfs/Aujas%202020/blue-search.png"></a></li>
+ </ul>
+</div></span></div>
+
+   </div><!--end widget-span -->
+<div class="span1 widget-span widget-type-custom_widget nsc-logo-wrp" style="" data-widget-type="custom_widget" data-x="10" data-w="1">
+<div id="hs_cos_wrapper_module_156334501449873" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_module_156334501449873_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://www.aujas.com/hs-fs/hubfs/Aujas%202019/Home/logo.png?width=160&amp;name=logo.png" class="hs-image-widget " style="width:160px;border-width:0px;border:0px;" width="160" alt="logo" title="logo" srcset="https://www.aujas.com/hs-fs/hubfs/Aujas%202019/Home/logo.png?width=80&amp;name=logo.png 80w, https://www.aujas.com/hs-fs/hubfs/Aujas%202019/Home/logo.png?width=160&amp;name=logo.png 160w, https://www.aujas.com/hs-fs/hubfs/Aujas%202019/Home/logo.png?width=240&amp;name=logo.png 240w, https://www.aujas.com/hs-fs/hubfs/Aujas%202019/Home/logo.png?width=320&amp;name=logo.png 320w, https://www.aujas.com/hs-fs/hubfs/Aujas%202019/Home/logo.png?width=400&amp;name=logo.png 400w, https://www.aujas.com/hs-fs/hubfs/Aujas%202019/Home/logo.png?width=480&amp;name=logo.png 480w" sizes="(max-width: 160px) 100vw, 160px"></span></div>
+
+   </div><!--end widget-span -->
+<div class="span1 widget-span widget-type-custom_widget mobile-image" style="" data-widget-type="custom_widget" data-x="11" data-w="1">
+<div id="hs_cos_wrapper_module_1609157855286145" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_module_1609157855286145_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://www.aujas.com/hubfs/Aujas%202020/blue-search.png" class="hs-image-widget " style="max-width: 100%; height: auto;" alt="blue-search" title="blue-search"></span></div>
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell outer-mob-aujas" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell inner-mob-aujas" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span3 widget-span widget-type-custom_widget new-mob-logo" style="" data-widget-type="custom_widget" data-x="0" data-w="3">
+<div id="hs_cos_wrapper_module_1639052703122448" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_module_1639052703122448_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://www.aujas.com/hubfs/Aujas-2021-Middle-East-countries/LogoAsset_2.svg" class="hs-image-widget " style="max-width: 100%; height: auto;" alt="LogoAsset_2" title="LogoAsset_2"></span></div>
+
+</div><!--end widget-span -->
+<div class="span3 widget-span widget-type-custom_widget nse-mob-logo" style="" data-widget-type="custom_widget" data-x="3" data-w="3">
+<div id="hs_cos_wrapper_module_1639051937811189" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_module_1639051937811189_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://www.aujas.com/hubfs/Aujas%202019/Identity%20Access%20Management/NSE-Logo.png" class="hs-image-widget " style="max-width: 100%; height: auto;" alt="NSE-Logo" title="NSE-Logo"></span></div>
+
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-custom_widget header-menu mobile-menu-outer custom-menu-primary" style="" data-widget-type="custom_widget" data-x="6" data-w="6">
+<div id="hs_cos_wrapper_module_15471122256261652" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_15471122256261652_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_15471122256261652_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="6997181156" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Services</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/robotics-iam-identity-access-management-services" role="menuitem">Identity and Access Management</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/iam-identity-governance-fast-track" role="menuitem">Identity Governance Fast Track</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/privileged-identity-management" role="menuitem">Privileged Identity Management Fast Track</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/cloud-sso" role="menuitem">Cloud Single Sign-on Fast Track</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/robotics-iam-services" role="menuitem">Robotics Driven IAM</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/risk-aware-iam" role="menuitem">Risk Aware IAM</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/consumer-identity-and-access-management" role="menuitem">Consumer IAM</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/risk-advisory-services" role="menuitem">Cybersecurity Risk Advisory</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/cyber-risk-management-services" role="menuitem">Cyber Risk Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/cybersecurity-compliance-services" role="menuitem">Integrated Compliance Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/grc-technology-automation-services" role="menuitem">GRC Technology Automation</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/third-party-risk-management" role="menuitem">Third Party Risk Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/data-privacy-data-protection-services" role="menuitem">Privacy and Data Protection</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/security-verification-services" role="menuitem">Security Verification</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/on-demand-security-testing-and-services" role="menuitem">On-Demand Security Assessment</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/automated-continuous-attack-simulation" role="menuitem">Threat Simulation</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/open-source-compliance-security-services" role="menuitem">Open Source and IP Compliance</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/internet-of-things-security-assessment" role="menuitem">IoT Security Assessment</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/red-teaming-services" role="menuitem">Red Teaming</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/ddos-attack-simulation-services" role="menuitem">DDoS Simulation</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/devsecops" role="menuitem">DevSecOps</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/security-engineering-services" role="menuitem">Security Engineering</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/secure-software-development" role="menuitem">Secure Software Development</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/ecosystem-engineering" role="menuitem">Ecosystem Engineering</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/custom-security-solution-development" role="menuitem">Custom Security Development</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/registered-device-management-platform" role="menuitem">Registered Device Management Platform</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/managed-detection-and-response-services" role="menuitem">Managed Detection and Response</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/offensive-security-services" role="menuitem">Offensive Security Services</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/ot-security-services" role="menuitem">OT Security Services</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/sentinel" role="menuitem">Microsoft Sentinel</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/threat-management-service" role="menuitem">Threat Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/siem-security-monitoring" role="menuitem">SIEM &amp; Security Monitoring</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/automated-continuous-attack-simulation" role="menuitem">Automated &amp; Continous Attack Simulation</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/security-orchestration-automation-and-response" role="menuitem">SecOps Orchestration</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/cloud-computing-security-services" role="menuitem">Cloud Security</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/aws-cloud-security-services" role="menuitem">AWS Cloud Security Services</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/cloud-security-foundation" role="menuitem">Cloud Security Foundation</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/cloud-risk-management" role="menuitem">Cloud Risk Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/cloud-security-engineering" role="menuitem">Cloud Security Engineering</a></li>
+     </ul></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Products</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/platform-for-access-lifecycle-management" role="menuitem">PALM</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://saksham.aujas.com" role="menuitem">Saksham</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://codesign.aujas.com" role="menuitem">CodeSign</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/registered-device-management-platform" role="menuitem">Aadhaar Registered Device Manager</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Company</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="https://www.aujas.com/about-us" role="menuitem">About us</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.aujas.com/investor-relations" role="menuitem">Investor Relations</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/team" role="menuitem">Team</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/partnership" role="menuitem">Partnership</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/contact-us" role="menuitem">Contact us</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/cybersecurity-careers" role="menuitem">Careers</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Resources </a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://blog.aujas.com" role="menuitem">Blog</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/collaterals" role="menuitem">Collaterals</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.aujas.com/case-study" role="menuitem">Case Studies</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/contact-us" role="menuitem">Contact Sales</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:;" role="menuitem"><img src="https://www.aujas.com/hubfs/Aujas%202020/blue-search.png"></a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="display:none;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_154703013493243" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><!-- <!DOCTYPE html>
+<!-- <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flip-box {
+  background-color: transparent;
+  width: 300px;
+  height: 200px;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px;
+}
+
+.flip-box-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flip-box:hover .flip-box-inner {
+  transform: rotateY(180deg);
+} -->
+
+<!-- .flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-box-front {
+  background-color: #bbb;
+  color: black;
+}
+
+.flip-box-back {
+  background-color: dodgerblue;
+  color: white;
+  transform: rotateY(180deg);
+} -->
+<!-- </style>
+</head>
+<body>
+
+<h1>3D Flip Box (Horizontal)</h1>
+<h3>Hover over the box below:</h3>
+
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <h2>Front Side</h2>
+    </div>
+    <div class="flip-box-back">
+      <h2>Back Side</h2>
+    </div>
+  </div>
+</div>
+
+</body>
+</html> --></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget global-search-box" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1609153394513881" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1609153394513881_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><div class="search-close"><img src="https://www.aujas.com/hubfs/Aujas%202020/close.png"></div>
+<script src="https://cse.google.com/cse.js?cx=c60d1b96609aceae2" async></script>
+<div class="gcse-searchbox-only">&nbsp;</div>
+<div class="gcse-searchresults-only">&nbsp;</div>
+<div class="searchresults_popup hs-header-search"><form action="/hs-search-results" data-hs-do-not-collect="true"><input class="hs-search-field__input" autocomplete="off" name="term" type="text" placeholder="Search" aria-label="Search"> <input name="type" type="hidden" value="SITE_PAGE"> <input name="type" type="hidden" value="BLOG_POST"> <input name="type" type="hidden" value="LISTING_PAGE"></form></div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell privacy-outer-wrp" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell privacy-inner-wrp" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container " style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_1561275022756403" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_1563801209382" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_widget_1563801209382_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h3>Terms and Conditions of Use</h3>
+<p style="vertical-align: baseline;">This website&nbsp;https://www.aujas.com/ [the “<strong>Site</strong>”] is owned, managed, and operated by Aujas Cybersecurity – An NSEIT Company [“Aujas Cybersecurity” or “Company”].</p>
+<p style="vertical-align: baseline;">You [as visitor to the Site or a user of the Site or someone who accesses the Site in any manner] should read these terms and conditions carefully because these will bind you contractually</p>
+<p style="vertical-align: baseline;"><strong>You, Your,</strong>&nbsp;and&nbsp;<strong>User</strong>&nbsp;as used herein refer to a visitor to the Site or a user of the Site or someone who accesses the Site in any manner</p>
+<p style="vertical-align: baseline;">By accessing this Site and/or using it and/or visiting it, you agree that you are bound by these terms and conditions [“Terms”] as modified or updated from time to time. Further you agree that it is your sole responsibility to view, understand and abide by any changes or modifications to these Terms</p>
+<p style="vertical-align: baseline;"><strong>Age of Consent</strong></p>
+<p style="vertical-align: baseline;">You must be 18 years of age or older to visit or use the Site in any manner. In the event that you are below 18 years of age, you are visiting the Site at your own risk and you alone shall be liable for your actions. By visiting this site or accepting these Terms of Use, you represent and warrant to the Company that you are 18 years of age or older, and that you have the right, authority and capacity to use the Site and agree to and abide by these Terms of Use. You also represent and warrant to the Company that you will use the Site in a manner consistent with any and all applicable laws and regulations.</p>
+<p style="vertical-align: baseline;"><strong>Use of Site</strong></p>
+<p style="vertical-align: baseline;">By using the Site, you agree to follow and be bound by all terms and conditions concerning your use of the Site. Certain areas of the Site may have different terms of use posted. If there is a conflict between the Terms of Use and terms of use posted for a specific area of the Site, the latter shall have precedence with respect to your use of that area of the Site.</p>
+<p style="vertical-align: baseline;"><strong>Cookies</strong></p>
+<p style="vertical-align: baseline;">Our website may use cookies. By using our website and agreeing to these terms of use, you consent to our use of cookies in accordance with the terms of our privacy policy. For more details visit the</p>
+<p style="vertical-align: baseline;"><strong>Termination of user</strong></p>
+<p style="vertical-align: baseline;">Aujas Cybersecurity may terminate User’s access to the Site or any part thereof at any time and for any reason without any notice. The provisions regarding disclaimer of warranty, accuracy of information, software, database other system or functionality of website and indemnification shall survive such termination. Aujas Cybersecurity may monitor User’s access to the Site.</p>
+<p style="vertical-align: baseline;"><strong>Scheduled updates on the Site</strong></p>
+<p style="vertical-align: baseline;">Aujas Cybersecurity may change or discontinue any aspect of the Site at any time, including, its content or features. Aujas Cybersecurity reserves the right to change the Terms of Use applicable to use of the Site. Such changes shall be effective immediately upon notice, which shall be placed on the Site.</p>
+<p style="vertical-align: baseline;"><strong>Copyright usage</strong></p>
+<p style="vertical-align: baseline;">All contents on the Site are the exclusive property of Aujas Cybersecurity except the third party content. The software, text, images, graphics, video and audio used on the Site belong to or are licensed to Aujas Cybersecurity or its subsidiaries and affiliates. No material from the Site may be copied, modified, reproduced, republished, uploaded, transmitted, posted or distributed in any form without prior written permission from Aujas Cybersecurity. All rights not expressly granted herein are reserved. Unauthorized use of the materials appearing on the Site may violate copyright, trademark and other applicable laws, and could result in criminal or civil penalties. You are granted a non-exclusive, non-transferable, limited right to access the Site and avail the services provided by Aujas Cybersecurity on the Site.</p>
+<p style="vertical-align: baseline;"><strong>Our sources/references</strong></p>
+<p style="vertical-align: baseline;">Aujas Cybersecurity does not make any warranties, express or implied, with respect to any service, information, data, software, system, functionality, statements or products made available on the Site. The information contained in the Site has been obtained from sources believed to be reliable. The Site, and all content, materials, information, software and services provided on the Site, are provided on an “as-is” and “as available” basis.</p>
+<p style="vertical-align: baseline;"><strong>Our Website</strong></p>
+<p style="vertical-align: baseline;">Aujas Cybersecurity does not warrant that the Site will operate error-free or that the Site and its servers are free of computer viruses or other harmful mechanisms. If your use of the Site or content therein results in the need for servicing or replacing equipment or data, Aujas Cybersecurity is not responsible for any such costs. Site and content are provided on an “as-is” basis without any warranties of any kind. Aujas Cybersecurity to the fullest extent permitted by law, disclaims all warranties, whether express or implied, including the fitness for particular purpose and non-infringement. Aujas Cybersecurity makes no warranties about the accuracy, reliability, completeness, or timeliness of the content, services, software, text, graphics, and links.</p>
+<p style="vertical-align: baseline;">Aujas Cybersecurity shall not be liable for any damage to User’s computer system or loss of data that result from the download of any content, materials, and information from the Site or use of any software, systems, functionality, or other services on the Site. Under no circumstances will Aujas Cybersecurity be liable in any way for any content, including, but not limited to, inaccurate, false, incomplete, threatening, defamatory, obscene, offensive, illegal content, infringement of other’s rights including intellectual property rights, for any errors or omissions in any content, or for any loss or damage of any kind incurred as a result of the use of any content posted or uploaded. Further, under no circumstances, Aujas Cybersecurity shall be liable for any unlawful act of the User or its affiliates, relatives, employees, agents including misuse of any data, unfair trade practices, fraud, cybersquatting, hacking and other cybercrimes.</p>
+<p style="vertical-align: baseline;">In no event shall Aujas Cybersecurity be liable for damages of any kind, including without limitation, direct, incidental or consequential damages (including, but not limited to, damages for lost profits, business interruption and loss of programs or information) arising out of the use of or inability to use Site, or any information provided thereon, or any claim attributable to errors, omissions or other inaccuracies in the Site.</p>
+<p style="vertical-align: baseline;">You may not send, submit, post, or otherwise transmit, material or messages that contain software virus, or any other files that are designed to interrupt, destroy, and negatively affect in any manner whatsoever, any electronic equipment in connection with the use of the Site, or other user’s ability to use the Site.</p>
+<p style="vertical-align: baseline;">You may not conduct any systematic or automated data collection activities (including scraping, data mining, data extraction and data harvesting) on or in relation to our website without our express written consent.</p>
+<p style="vertical-align: baseline;">You may not use our website to transmit or send unsolicited commercial communications.</p>
+<p style="vertical-align: baseline;">You may not use our website for any purposes related to marketing without our explicit written consent.</p>
+<p style="vertical-align: baseline;">User agrees to indemnify and hold Aujas Cybersecurity, its subsidiaries, affiliates, officers and employees, harmless from any claim, demand or damage, including reasonable attorney’s fees, asserted by any third party due to or arising out of your use of or conduct on the Site Aujas Cybersecurity reserves the right to disclosure any personal information about you and your use of the Site including its contents, without your prior permission if Aujas Cybersecurity has a good faith belief that such action is necessary to:</p>
+<ul>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Conform to legal requirements or comply with legal process;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Protect and defend the rights or property of Aujas Cybersecurity or its affiliated companies;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Enforce the Terms of Use; or</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Act to protect the interest of its directors, members, employees or others</li>
+</ul>
+<p style="vertical-align: baseline;"><strong>User Privacy</strong></p>
+<p style="vertical-align: baseline;">The User’s right to privacy is of paramount importance to Aujas Cybersecurity. Any information provided by the User will not be shared with any third party, except in the manner provided under these Terms of Use and for the intended purpose for which such information is provided by the User, in which case User’s consent is implied. Aujas Cybersecurity reserves the right to use the information to provide the User a more personalized online experience.</p>
+<p style="vertical-align: baseline;">If the Site provides links to websites and access to content, products and services from third parties, including users, advertisers, affiliates and sponsors of the Site, you agree that Aujas Cybersecurity is not responsible for the availability of, and content provided on, third party web sites. The User is requested to peruse the policies posted by other websites regarding privacy and other topics before use. Aujas Cybersecurity is not responsible for third party content accessible through the Site, including opinions, advice, statements and advertisements, and User shall bear all risks associated with the use of such content. Aujas Cybersecurity is not responsible for any loss or damage of any sort which User may incur from dealing with any third party.</p>
+<p style="vertical-align: baseline;">By using any third party content, User may leave the Site and be directed to an external website, or to a website maintained by an entity other than Aujas Cybersecurity. If&nbsp;<strong>You</strong>&nbsp;decide to visit any such site, You do so at your own risk and it is Your responsibility to take all protective measures to guard against viruses or any other destructive elements.</p>
+<p style="vertical-align: baseline;">Aujas Cybersecurity makes no warranty or representation regarding, and does not endorse, any linked web sites or the information appearing thereon or any of the products or services described thereon. Links do not imply that Aujas Cybersecurity or the Site sponsors, endorses, is affiliated or associated with, or is legally authorized to use any trademark, trade name, logo or copyright symbol displayed in or accessible through the links, or that any linked site is authorized to use any trademark, trade name, logo or copyright symbol of Aujas Cybersecurity or any of its affiliates or subsidiaries. You hereby expressly acknowledge and agree that the linked sites are not under the control of Aujas Cybersecurity and Aujas Cybersecurity is not responsible for the contents of any linked site or any link contained in a linked site, or any changes or updates to such sites.</p>
+<p style="vertical-align: baseline;">Aujas Cybersecurity is not responsible for webcasting or any other form of transmission received from any linked site. Aujas Cybersecurity is providing these links to you only as a convenience, and the inclusion of any link shall not be construed to imply endorsement by Aujas Cybersecurity in any manner of the website.</p>
+<p style="vertical-align: baseline;"><strong>Specific Prohibited Uses:</strong></p>
+<p style="vertical-align: baseline;">The Site may be used only for lawful purposes by individuals for personal, non-commercial use only. Aujas Cybersecurity specifically prohibits any other use of the Site, and all Users agree not to do any of the following:</p>
+<ul>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Post or submit to the Site any incomplete, false or inaccurate biographical information or information which is not your own;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Send unsolicited mail or e-mail, making unsolicited phone calls or send unsolicited faxes regarding promotions and/or advertising of products or services to a user of the Site;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Delete or revise any material posted by any other person or entity;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Take any action that imposes an unreasonable or disproportionately large load on the Site’s infrastructure;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Attempt to decipher, decompile, disassemble or reverse engineer any of the software comprising or in any way making up a part of the Site;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Aggregate, copy or duplicate in any manner any of the content or information available from the Site; or</li>
+</ul>
+<p style="vertical-align: baseline;">On non-conformance by users of any of the aforesaid terms, Aujas Cybersecurity may in its sole discretion, restrict or terminate the offending User’s ability to access the Site and determine whether to take any other actions whether to remove or request the removal of the User’s content.</p>
+<p style="vertical-align: baseline;">Aujas Cybersecurity shall have no liability or responsibility whatsoever to Users for performance or non-performance of such activities. Aujas Cybersecurity reserves the right in its sole discretion to investigate and take legal action against anyone who engages in any illegal or prohibited conduct or otherwise violates these Terms of Use, including without limitation, removing the User content from the Site and/or terminating the offending User’s ability to access the Site and/or use services therein. Aujas Cybersecurity may take any other action with respect to User content or User actions that it deems necessary or appropriate in its sole discretion if it believes it may create liability for Aujas Cybersecurity or may cause Aujas Cybersecurity to lose (in whole or in part) the services of its ISPs or other suppliers.</p>
+<p style="vertical-align: baseline;">The User hereby specifically agrees to comply with the requirements of the Information Technology Act, 2000 as also rules, regulations, guidelines, bylaws and notifications made thereunder, while on the Site. The user also undertakes that the content provided by him/her is not defamatory, obscene, threatening, abusive or hateful. The User shall alone be responsible for all his acts, deeds and things and that he alone shall be liable for civil and criminal liability there under or under any other law for the time being in force.</p>
+<p style="vertical-align: baseline;">Aujas Cybersecurity may, if you so choose send direct mailers to&nbsp;<strong>You</strong>&nbsp;at the address given by You. You have the option to ‘opt-out’ of this direct mailer by way of links provided at the bottom of each mailer. Aujas Cybersecurity respects&nbsp;<strong>Your</strong>&nbsp;privacy and in the event that You choose to not receive such mailers, Aujas Cybersecurity will take all steps to remove You from the list.</p>
+<p style="vertical-align: baseline;">Aujas Cybersecurity recognizes the receipt, transmission or distribution of spam emails (unsolicited bulk emails) as a major concern and has taken reasonable measures to minimize the transmission and effect of spam emails in its computing environment. All emails received by Aujas Cybersecurity, are subject to spam check. Any email identified as spam will be rejected with sufficient information to the Sender for taking necessary action. With this measure, along with other technical spam reduction measures, Aujas Cybersecurity hopes to minimize the effect of spam emails. Aujas Cybersecurity reserves the right to reject and/or report any suspicious spam emails, to the authorities concerned, for necessary action, from time to time.</p>
+<p style="vertical-align: baseline;">No failure or delay by Aujas Cybersecurity in exercising any right, power or privilege under the Terms of Use will operate as a waiver of it, nor will any single or partial exercise of it preclude any further exercise or the exercise of any right, power or privilege under the Terms of Use.</p>
+<p style="vertical-align: baseline;">The Site is controlled, operated and administered by Aujas Cybersecurity from its offices within India. Aujas Cybersecurity makes no representation that materials on this site are appropriate or available for use at any other location(s) outside India. Any access to this site from territories where their contents are illegal is prohibited. You may not use the site or export the materials in violation of any applicable export laws and regulations. If&nbsp;<strong>You&nbsp;</strong>access this site from a location outside India, you are responsible for compliance with all local laws.</p>
+<p style="vertical-align: baseline;">The Terms of Use shall be governed by the Laws of India. The Courts of law at Mumbai shall have exclusive jurisdiction over any disputes arising under the Terms of Use.</p>
+<ul>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Conform to legal requirements or comply with legal process;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Protect and defend the rights or property of Aujas Cybersecurity or its affiliated companies;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Enforce the Terms of Use; or</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Act to protect the interest of its directors, members, employees or others.</li>
+</ul>
+<p style="vertical-align: baseline;">The User’s right to privacy is of paramount importance to Aujas Cybersecurity. Any information provided by the User will not be shared with any third party, except in the manner provided under these Terms of Use and for the intended purpose for which such information is provided by the User, in which case User’s consent is implied. Aujas Cybersecurity reserves the right to use the information to<br>provide the User a more personalized online experience.</p>
+<p style="vertical-align: baseline;">If the Site provides links to web sites and access to content, products and services from third parties, including users, advertisers, affiliates and sponsors of the Site, you agree that&nbsp;<strong>Aujas Cybersecurity is not responsible for the availability of, and content provided on, third party web sites</strong>. The User is requested to peruse the policies posted by other web sites regarding privacy and other topics before use.&nbsp;<strong>Aujas Cybersecurity is not responsible for third party content accessible through the Site, including opinions, advice, statements and advertisements, and User shall bear all risks associated with the use of such content</strong>. Aujas Cybersecurity is not responsible for any loss or damage of any sort which User may incur from dealing with any third party.</p>
+<p style="vertical-align: baseline;">By using any third party content, User may leave the Site and be directed to an external website, or to a website maintained by an entity other than Aujas Cybersecurity.&nbsp;<strong>If You decide to visit any such site, You do so at your own risk and it is Your responsibility to take all protective measures to guard against viruses or any other destructive elements</strong>. Aujas Cybersecurity makes no warranty or representation regarding, and does not endorse, any linked web sites or the information appearing thereon or any of the products or services described thereon.</p>
+<p style="vertical-align: baseline;">Links do not imply that Aujas Cybersecurity or the Site sponsors, endorses, is affiliated or associated with, or is legally authorized to use any trademark, trade name, logo or copyright symbol displayed in or accessible through the links, or that any linked site is authorized to use any trademark, trade name, logo or copyright symbol of Aujas Cybersecurity or any of its affiliates or subsidiaries.</p>
+<p style="vertical-align: baseline;">You hereby expressly acknowledge and agree that the linked sites are not under the control of Aujas Cybersecurity and Aujas Cybersecurity is not responsible for the contents of any linked site or any link contained in a linked site, or any changes or updates to such sites. Aujas Cybersecurity is not responsible for webcasting or any other form of transmission received from any linked site. Aujas Cybersecurity is providing these links to you only as a convenience, and the inclusion of any link shall not be construed to imply endorsement by Aujas Cybersecurity in any manner of the website.</p>
+<p style="vertical-align: baseline;"><strong>Specific Prohibited Uses:</strong></p>
+<p style="vertical-align: baseline;">The Site may be used only for lawful purposes by individuals for personal, non-commercial use only. Aujas Cybersecurity specifically prohibits any other use of the Site, and all Users agree not to do any of the following:</p>
+<ul>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Send unsolicited mail or e-mail, making unsolicited phone calls or send unsolicited faxes regarding promotions and/or advertising of products or services to a user of the Site;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Delete or revise any material posted by any other person or entity;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Take any action that imposes an unreasonable or disproportionately large load on the Site’s infrastructure;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Attempt to decipher, decompile, disassemble or reverse engineer any of the software comprising or in any way making up a part of the Site;</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>Aggregate, copy or duplicate in any manner any of the content or information available from the Site; or On non-conformance by users of any of the aforesaid terms, Aujas Cybersecurity may in its sole discretion, restrict or terminate the offending User’s ability to access the Site and determine whether to take any other actions whether to remove or request the removal of the User’s content.</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>io shall have no liability or responsibility whatsoever to Users for performance or non-performance of such activities. Aujas Cybersecurity reserves the right in its sole discretion to investigate and take legal action against anyone who engages in any illegal or prohibited conduct or otherwise violates these Terms of Use, including without limitation, removing the User content from the Site and/or terminating the offending User’s ability to access the Site and/or use services therein.</li>
+<li style="vertical-align: baseline;"><span style="font-size: 10px;"> </span>io may take any other action with respect to User content or User actions that it deems necessary or appropriate in its sole discretion if it believes it may create liability for Aujas Cybersecurity or may cause Aujas Cybersecurity to lose (in whole or in part) the services of its ISPs or other suppliers.</li>
+</ul>
+<p style="vertical-align: baseline;">The User hereby specifically agrees to comply with the requirements of the Information Technology Act, 2000 as also rules, regulations, guidelines, bye laws and notifications made thereunder, while on the Site. The user also undertakes that the content provided by him/her is not defamatory, obscene, threatening, abusive or hateful. The User shall alone be responsible for all his acts, deeds and things and that he alone shall be liable for civil and criminal liability there under or under any other law for the time being in force.</p>
+<p style="vertical-align: baseline;"><strong>Opt-Out</strong></p>
+<p style="vertical-align: baseline;">Aujas Cybersecurity may, if you so choose send direct mailers to&nbsp;<strong>You&nbsp;</strong>at the address given by You. You have the option to ‘opt-out’ of this direct mailer by way of links provided at the bottom of each mailer. Aujas Cybersecurity respects&nbsp;<strong>Your</strong>&nbsp;privacy and in the event that You choose to not receive such mailers, Aujas Cybersecurity will take all steps to remove You from the list.</p>
+<p style="vertical-align: baseline;">Aujas Cybersecurity recognizes the receipt, transmission or distribution of spam emails (unsolicited bulk emails) as a major concern and has taken reasonable measures to minimize the transmission and effect of spam emails in its computing environment. All emails received by Aujas Cybersecurity, are subject to spam check. Any email identified as spam will be rejected with sufficient information to the Sender for taking necessary action. With this measure, along with other technical spam reduction measures, Aujas Cybersecurity hopes to minimize the effect of spam emails. Aujas Cybersecurity reserves the right to reject and/or report any suspicious spam emails, to the authorities concerned, for necessary action, from time to time.</p>
+<p style="vertical-align: baseline;">No failure or delay by Aujas Cybersecurity in exercising any right, power or privilege under the Terms of Use will operate as a waiver of it, nor will any single or partial exercise of it preclude any further exercise or the exercise of any right, power or privilege under the Terms of Use.</p>
+<p style="vertical-align: baseline;">The Site is controlled, operated and administered by Aujas Cybersecurity from its offices within India. Aujas Cybersecurity makes no representation that materials on this site are appropriate or available for use at any other location(s) outside India. Any access to this site from territories where their contents are illegal is prohibited. You may not use the site or export the materials in violation of any<br>applicable export laws and regulations. If&nbsp;<strong>You</strong>&nbsp;access this site from a location outside India, you are responsible for compliance with all local laws.</p>
+<p style="vertical-align: baseline;">The Terms of Use shall be governed by the Laws of India. The Courts of law at Mumbai shall have exclusive jurisdiction over any disputes arising under the Terms of Use.</p>
+<p>&nbsp;</p></span></div></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end body -->
+</div><!--end body wrapper -->
+
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<div class="" data-global-widget-path="generated_global_groups/11268612861.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell footer-outer-wrp" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell footer-inner-wrp" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span3 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="3">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell footer-logo-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-3 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-logo" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_156316633602840" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_module_156316633602840_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://www.aujas.com/hubfs/Aujas%202019/Footer/Footer-Logo.png" class="hs-image-widget " style="max-width: 100%; height: auto;" alt="Footer-Logo" title="Footer-Logo"></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-4 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-contact" style="display:none;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563166568282104" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563166568282104_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2>Reach Us</h2>
+<p><a href="tel:+1%20201%20389%209011">+1 201 389 9011</a></p></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-5 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-social-section" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_15631714316261249" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_15631714316261249_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2>Write To Us</h2>
+<p style="font-size: 12px;"><span style="font-size: 14px;"><strong>Sales: </strong></span><a href="mailto:contact@aujas.com">contact@aujas.com</a><br><span style="font-size: 14px;"><strong>Jobs:</strong></span> <a href="mailto:careers@aujas.com" rel="noopener">careers@aujas.com</a><br><span style="font-size: 14px;"><strong>HR Queries:</strong></span> <a href="mailto:hropsteam@aujas.com" rel="noopener">HRopsteam@aujas.com</a></p>
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://www.linkedin.com/company/aujas-networks-pvt-ltd/?trk=tyah" target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i><span>1</span></a></li>
+<li><a href="https://twitter.com/AujasIRM" target="_blank" rel="noopener"><i class="fab fa-twitter"></i><span>2</span></a></li>
+<li><a href="https://www.facebook.com/AujasCybersec/?ref=py_c" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i><span>3</span></a></li>
+<li><a href="https://www.youtube.com/@AujasCybersecurity" target="_blank" rel="noopener"><i class="fab fa-youtube"></i><span>4</span></a></li>
+</ul></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span9 widget-span widget-type-cell desktop-menu" style="" data-widget-type="cell" data-x="3" data-w="9">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-6 ">
+<div class="row-fluid ">
+<div class="span4 widget-span widget-type-cell footer-menu-col-1 footer-menu-col" style="" data-widget-type="cell" data-x="0" data-w="4">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-7 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563166654636144" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563166654636144_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="https://www.aujas.com/identity-access-management-services">Identity and Access Management</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-8 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_156316640831642" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_156316640831642_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_156316640831642_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265274786" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/iam-identity-governance-fast-track" role="menuitem">Identity Governance Fast Track</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/privileged-identity-management" role="menuitem">PIM Fast Track</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/cloud-sso" role="menuitem">Cloud Single Sign-on Fast Track</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/robotics-iam-services" role="menuitem">Robotics Driven IAM</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/risk-aware-iam" role="menuitem">Risk Aware IAM</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/consumer-identity-and-access-management" role="menuitem">Consumer IAM</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+<div class="span3 widget-span widget-type-cell footer-menu-col-2 footer-menu-col" style="" data-widget-type="cell" data-x="4" data-w="3">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-9 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563166658283146" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563166658283146_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="https://www.aujas.com/risk-advisory-services">Risk Advisory</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-10 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_156316641509343" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_156316641509343_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_156316641509343_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265277727" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/cyber-risk-management-services" role="menuitem">Cyber Risk Management</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/cybersecurity-compliance-services" role="menuitem">Integrated Compliance Management</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/grc-technology-automation-service" role="menuitem">GRC Automation</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/third-party-risk-management" role="menuitem">Third Party Risk Management</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/data-privacy-data-protection-services" role="menuitem">Privacy and Data Protection</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+<div class="span3 widget-span widget-type-cell footer-menu-col-3 footer-menu-col" style="" data-widget-type="cell" data-x="7" data-w="3">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-11 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563166661283148" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563166661283148_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="#">Company</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-12 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_156316642170844" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_156316642170844_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_156316642170844_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265343526" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/about-us" role="menuitem">About us</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/cybersecurity-careers" role="menuitem">Careers</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/contact-us" role="menuitem">Contact us</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell footer-menu-col-4 footer-menu-col" style="" data-widget-type="cell" data-x="10" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-13 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563166664226150" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563166664226150_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="#">Resources</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-14 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_156316642621245" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_156316642621245_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_156316642621245_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265342432" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://blog.aujas.com" role="menuitem">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/collaterals" role="menuitem">Collaterals</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/case-study" role="menuitem">Case Study</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-15 ">
+<div class="row-fluid ">
+<div class="span3 widget-span widget-type-cell footer-menu-col-6 footer-menu-col" style="" data-widget-type="cell" data-x="0" data-w="3">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-16 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563166672162154" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563166672162154_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="https://www.aujas.com/security-verification-services">Security Verification</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-17 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563166558572102" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_1563166558572102_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1563166558572102_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265343851" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/threat-simulations" role="menuitem">Threat Simulation</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/open-source-compliance-security-services" role="menuitem">Open Source and IP Compliance</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/internet-of-things-security-assessment" role="menuitem">loT Security </a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/crest-certified-penetration-testing-services" role="menuitem">Penetration Testing</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+<div class="span3 widget-span widget-type-cell footer-menu-col-7 footer-menu-col" style="" data-widget-type="cell" data-x="3" data-w="3">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-18 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563166674282156" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563166674282156_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="https://www.aujas.com/security-engineering-services">Security Engineering</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-19 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563166556524101" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_1563166556524101_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1563166556524101_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265343937" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/secure-software-development" role="menuitem">Secure Development</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/ecosystem-engineering" role="menuitem">Ecosystem Engineering</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://codesign.aujas.com/" role="menuitem">CodeSign Platform</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/custom-security-solution-development" role="menuitem">Custom Security Development</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+<div class="span4 widget-span widget-type-cell footer-menu-col-5 footer-menu-col" style="" data-widget-type="cell" data-x="6" data-w="4">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-20 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563166669586152" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563166669586152_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="https://www.aujas.com/managed-threat-detection-and-response-services">Managed Detection and Response</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-21 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_156316655252499" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_156316655252499_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_156316655252499_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265342514" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/threat-management" role="menuitem">Threat Management</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/siem-security-monitoring" role="menuitem">SIEM &amp; Security Monitoring</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/automated-continuous-attack-simulation" role="menuitem">Automated &amp; Continous Attack Simulation</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/security-orchestration-automation-and-response" role="menuitem">SecOps Orchestration</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+<div class="span2 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="10" data-w="2">
+<div id="hs_cos_wrapper_module_1563167224076316" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-space" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span class="hs-horizontal-spacer"></span></div>
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-22 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell mobile-footer-menu" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-23 ">
+<div class="row-fluid ">
+<div class="span4 widget-span widget-type-cell footer-menu-col-1 footer-menu-col" style="" data-widget-type="cell" data-x="0" data-w="4">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-24 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839543106" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563964839543106_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="https://www.aujas.com/identity-access-management-services">Identity and Access Management</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-25 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839543107" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_1563964839543107_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1563964839543107_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265274786" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/iam-identity-governance-fast-track" role="menuitem">Identity Governance Fast Track</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/privileged-identity-management" role="menuitem">PIM Fast Track</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/cloud-sso" role="menuitem">Cloud Single Sign-on Fast Track</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/robotics-iam-services" role="menuitem">Robotics Driven IAM</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/risk-aware-iam" role="menuitem">Risk Aware IAM</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/consumer-identity-and-access-management" role="menuitem">Consumer IAM</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+<div class="span3 widget-span widget-type-cell footer-menu-col-2 footer-menu-col" style="" data-widget-type="cell" data-x="4" data-w="3">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-26 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839544109" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563964839544109_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="https://www.aujas.com/risk-advisory-services">Risk Advisory</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-27 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839544110" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_1563964839544110_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1563964839544110_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265277727" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/cyber-risk-management-services" role="menuitem">Cyber Risk Management</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/cybersecurity-compliance-services" role="menuitem">Integrated Compliance Management</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/grc-technology-automation-service" role="menuitem">GRC Automation</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/third-party-risk-management" role="menuitem">Third Party Risk Management</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/data-privacy-data-protection-services" role="menuitem">Privacy and Data Protection</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+<div class="span3 widget-span widget-type-cell footer-menu-col-6 footer-menu-col" style="" data-widget-type="cell" data-x="7" data-w="3">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-28 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839544118" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563964839544118_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="https://www.aujas.com/security-verification-services">Security Verification</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-29 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839544119" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_1563964839544119_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1563964839544119_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265343851" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/threat-simulations" role="menuitem">Threat Simulation</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/open-source-compliance-security-services" role="menuitem">Open Source and IP Compliance</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/internet-of-things-security-assessment" role="menuitem">loT Security </a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/crest-certified-penetration-testing-services" role="menuitem">Penetration Testing</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell footer-menu-col-7 footer-menu-col" style="" data-widget-type="cell" data-x="10" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-30 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839544121" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563964839544121_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="https://www.aujas.com/security-engineering-services">Security Engineering</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-31 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839544122" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_1563964839544122_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1563964839544122_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265343937" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/secure-software-development" role="menuitem">Secure Development</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/ecosystem-engineering" role="menuitem">Ecosystem Engineering</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://codesign.aujas.com/" role="menuitem">CodeSign Platform</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/custom-security-solution-development" role="menuitem">Custom Security Development</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-32 ">
+<div class="row-fluid ">
+<div class="span4 widget-span widget-type-cell footer-menu-col-5 footer-menu-col" style="" data-widget-type="cell" data-x="0" data-w="4">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-33 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839544124" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563964839544124_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="https://www.aujas.com/managed-threat-detection-and-response-services">Managed Threat Detection and Response</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-34 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="display:none;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839544125" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_1563964839544125_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1563964839544125_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265342514" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/threat-management" role="menuitem">Threat Management</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/siem-security-monitoring" role="menuitem">SIEM &amp; Security Monitoring</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/automated-continuous-attack-simulation" role="menuitem">Automated &amp; Continous Attack Simulation</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/security-orchestration-automation-and-response" role="menuitem">SecOps Orchestration</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+<div class="span3 widget-span widget-type-cell footer-menu-col-3 footer-menu-col" style="" data-widget-type="cell" data-x="4" data-w="3">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-35 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839544112" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563964839544112_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="#">Company</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-36 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839544113" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_1563964839544113_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1563964839544113_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265343526" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/about-us" role="menuitem">About us</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/cybersecurity-careers" role="menuitem">Careers</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/contact-us" role="menuitem">Contact us</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+<div class="span3 widget-span widget-type-cell footer-menu-col-4 footer-menu-col" style="" data-widget-type="cell" data-x="7" data-w="3">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-37 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-header" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839544115" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563964839544115_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2><a href="#">Resources</a></h2></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-38 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1563964839544116" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_1563964839544116_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1563964839544116_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="11265342432" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://blog.aujas.com" role="menuitem">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/collaterals" role="menuitem">Collaterals</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.aujas.com/case-study" role="menuitem">Case Study</a></li>
+ </ul>
+</div></span></div>
+
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+<div class="span2 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="10" data-w="2">
+<div id="hs_cos_wrapper_module_1563964839544126" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-space" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span class="hs-horizontal-spacer"></span></div>
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell copyright-outer" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span4 widget-span widget-type-custom_widget copyright-content" style="" data-widget-type="custom_widget" data-x="0" data-w="4">
+<div id="hs_cos_wrapper_module_1563169938939990" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563169938939990_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p>Copyrights © 2024 All Rights Reserved by Aujas.</p></span></div>
+
+</div><!--end widget-span -->
+<div class="span8 widget-span widget-type-custom_widget privacy-content" style="" data-widget-type="custom_widget" data-x="4" data-w="8">
+<div id="hs_cos_wrapper_module_1563169952171992" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1563169952171992_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><ul>
+<li><a href="https://www.aujas.com/terms-of-service">Terms of Use</a></li>
+<li style="padding-right: 3%; border-right: 1px solid #717171; padding-left: 14px;"><a href="https://www.aujas.com/privacy-policy">Privacy Policy</a></li>
+<li><a href="https://www.aujas.com/cookie-policy" rel="noopener" target="_blank">Cookie Policy</a></li>
+</ul></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="display: none; min-height: 0px;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1580795584995471" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><!-- <!DOCTYPE html>
+<!-- <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flip-box {
+  background-color: transparent;
+  width: 300px;
+  height: 200px;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px;
+}
+
+.flip-box-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flip-box:hover .flip-box-inner {
+  transform: rotateY(180deg);
+} -->
+
+<!-- .flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-box-front {
+  background-color: #bbb;
+  color: black;
+}
+
+.flip-box-back {
+  background-color: dodgerblue;
+  color: white;
+  transform: rotateY(180deg);
+} -->
+<!-- </style>
+</head>
+<body>
+
+<h1>3D Flip Box (Horizontal)</h1>
+<h3>Hover over the box below:</h3>
+
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <h2>Front Side</h2>
+    </div>
+    <div class="flip-box-back">
+      <h2>Back Side</h2>
+    </div>
+  </div>
+</div>
+
+</body>
+</html> --></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget scrollup" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_160984470452700" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_160984470452700_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a id="button" data-hs-anchor="true"></a></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
+
+    
+<!-- HubSpot performance collection script -->
+<script defer src="https://static.hsappstatic.net/content-cwv-embed/static-1.971/embed.js"></script>
+<script src="https://www.aujas.com/hs-fs/hub/2139287/hub_generated/template_assets/25214468451/1672827391002/Aujas_2019/Code_file/All-page-script.min.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script src="/hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.17/bundles/project.js"></script>
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.aujas.com\/terms-of-service"]);
+_hsq.push(["setPageId", "11468090089"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 11468090089,
+    "legacyPageId": "11468090089",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 11468090089,
+    "languageCode": null,
+    
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/2139287.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "39f5099c-6a94-4d73-a463-01d31ffe8f53",
+    ticks: 1727129576368,
+    page_id: 11468090089,
+    
+    content_group_id: 0,
+    portal_id: 2139287,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "standard-page",
+    scp_content_type: "",
+    analytics_page_id: "11468090089",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.354/js/index.js"></script>
+
+<meta name="p:domain_verify" content="5f4df53e51b7cfff4dfed9fc126930a5">
+<script type="text/javascript">
+_linkedin_partner_id = "656027";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=656027&amp;fmt=gif">
+</noscript>
+
+<noscript>
+<img src="https://ws.zoominfo.com/pixel/62839c658f43f50012ae3b9a" width="1" height="1" style="display: none;" alt="websights">
+</noscript>
+
+
+    
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+
+</body></html>
